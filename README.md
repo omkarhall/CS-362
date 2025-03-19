@@ -1,2 +1,1 @@
-# CS-362
-Computer Design
+# Computer Design
